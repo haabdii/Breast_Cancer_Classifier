@@ -1,5 +1,4 @@
 # Breast_Cancer_Classifier
-Building a Breast Cancer Classifier in Python 
 
 Breast cancer is the most common cancer amongst women in the world. 
 It accounts for 25% of all cancer cases, and affected over 2.1 million people in 2015 alone. 
